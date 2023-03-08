@@ -1,6 +1,6 @@
 [gd_scene load_steps=4 format=2]
 
-[ext_resource path="res://Hello.cs" type="Script" id=1]
+[ext_resource path="res://Scripts/Hello.cs" type="Script" id=1]
 
 [sub_resource type="BoxShape" id=1]
 extents = Vector3( 0.204519, 0.209146, 0.204554 )
